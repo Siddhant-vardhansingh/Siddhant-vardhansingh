@@ -3,8 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Siddhant Vardhan Singh
-I am currently a student of Electronics And Communication Engineering at Shri Mata Vaishno Devi University</div>  
+### <div align="center">I'm Siddhant Vardhan Singh and currently a student of Electronics And Communication Engineering at Shri Mata Vaishno Devi University</div>  
   
 
 <br/>  
